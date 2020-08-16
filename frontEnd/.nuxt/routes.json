@@ -1,0 +1,16 @@
+[
+  {
+    "name": "add",
+    "path": "/add",
+    "component": "C:\\\\Users\\\\Guilherme\\\\Desktop\\\\Desafio\\\\frontEnd\\\\pages\\\\add.vue",
+    "chunkName": "pages/add",
+    "_name": "_d768c6ae"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Guilherme\\\\Desktop\\\\Desafio\\\\frontEnd\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_82c5df4c"
+  }
+]
